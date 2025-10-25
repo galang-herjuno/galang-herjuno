@@ -1,5 +1,8 @@
 # 💫 About Me:
-Mahasiswa Informatika di Telkom University Surabaya
+👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech
+👩🏻‍🎓 Studied Computer Science at Telkom University Surabaya, Indonesia
+🌷 #learninginpprivate in my digital garden
+💭 Currently learning about Website Developer!
 
 
 ## 🌐 Socials:
