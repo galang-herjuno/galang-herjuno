@@ -1,5 +1,5 @@
 # 👋 Hi, im Galang
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech  
+👩🏻‍💻 Informatics Engineer sharing about my journey and learnings in tech  
 👩🏻‍🎓 Studied Computer Science at Telkom University Surabaya, Indonesia  
 🌷 #learninginprivate in my digital garden  
 💭 Currently learning about Website Developer!  
