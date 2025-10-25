@@ -1,11 +1,8 @@
 # 💫 About Me:
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech
-
-👩🏻‍🎓 Studied Computer Science at Telkom University Surabaya, Indonesia
-
-🌷 #learninginpprivate in my digital garden
-
-💭 Currently learning about Website Developer!
+👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech  
+👩🏻‍🎓 Studied Computer Science at Telkom University Surabaya, Indonesia  
+🌷 #learninginprivate in my digital garden  
+💭 Currently learning about Website Developer!  
 
 
 
