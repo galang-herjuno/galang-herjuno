@@ -1,4 +1,4 @@
-# 👋 Hi, im Galang
+# 👋 Hello There, im Galang
 👩🏻‍💻 Informatics Engineer sharing about my journey and learnings in tech  
 👩🏻‍🎓 Studied Computer Science at Telkom University Surabaya, Indonesia  
 🌷 #learninginprivate in my digital garden  
